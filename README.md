@@ -1,6 +1,6 @@
 # Projeto Amigo Secreto
 
-Este é um projeto simples de sorteio de amigo secreto, desenvolvido como parte do meu aprendizado em lógica de programação e desenvolvimento web.
+Este é um projeto simples de sorteio de amigo secreto, desenvolvido como parte do meu aprendizado em lógica de programação e desenvolvimento web com a ONE/Alura.
 
 ---
 
